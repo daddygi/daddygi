@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   <br/>
 
-  <a href="https://wakatime.com/@daddygi" target="_blank"><img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=daddygi&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats"></a>  
+  <a href="https://wakatime.com/@daddygi" target="_blank"><img alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=daddygi&border_radius=10px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&custom_title=Weekly%20Stats"></a>  
 
 </div>
 
